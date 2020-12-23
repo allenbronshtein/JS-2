@@ -24,3 +24,8 @@ var executable_1 = __Fibonacci__();
 var executable_2 = __Fibonacci__();
 
 //Test Here
+
+// console.log(executable_1(0));
+// console.log(executable_1(1));
+// console.log(executable_2(5)); 
+// console.log(executable_2(1));

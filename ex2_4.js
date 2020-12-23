@@ -26,3 +26,12 @@ var memoized_function1 = __Memoize__(testFunction);
 var memoized_function2 = __Memoize__(testFunction);
 
 //Test Here
+
+// console.log(non_memoized_function(5,1));
+// console.log(non_memoized_function(5,1));
+// console.log(memoized_function1(3,2));
+// console.log(memoized_function1(5,2));
+// console.log(memoized_function1(5,2));
+// console.log(memoized_function2(3,1));
+// console.log(memoized_function2(3,2));
+// console.log(memoized_function2(3,2));

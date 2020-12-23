@@ -30,3 +30,11 @@ var memoized_factorial1 = __Memoize__(Factorial);
 var memoized_factorial2 = __Memoize__(Factorial);
 
 //Test Here
+
+// console.log(non_memoized_factorial(5));
+// console.log(non_memoized_factorial(5));
+// console.log(memoized_factorial1(3));
+// console.log(memoized_factorial1(5));
+// console.log(memoized_factorial1(5));
+// console.log(memoized_factorial2(3));
+// console.log(memoized_factorial2(3));

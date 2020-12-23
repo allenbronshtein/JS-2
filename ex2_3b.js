@@ -32,3 +32,11 @@ var memoized_fib1 = __Memoize__(Fibonacci);
 var memoized_fib2 = __Memoize__(Fibonacci);
 
 //Test Here
+
+// console.log(non_memoized_fib(5));
+// console.log(non_memoized_fib(5));
+// console.log(memoized_fib1(3));
+// console.log(memoized_fib1(5));
+// console.log(memoized_fib1(5));
+// console.log(memoized_fib2(3));
+// console.log(memoized_fib2(3));
