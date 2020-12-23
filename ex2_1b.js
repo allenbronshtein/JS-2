@@ -20,7 +20,7 @@ function __Fibonacci__(){
 	}
 }
 
-var executable_1 = __Factorial__();
-var executable_2 = __Factorial__();
+var executable_1 = __Fibonacci__();
+var executable_2 = __Fibonacci__();
 
 //Test Here
